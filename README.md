@@ -43,6 +43,12 @@ You should see the `web` (Flask) and `db` (PostgreSQL) containers running.
 
 ---
 
+### **Proposed Architecture (GCP)**
+
+<p align="center">
+  <img src="/resources/gcp_proposed_architecture.png"/>
+</p>
+
 ## License
 
 This project is under the **MIT License**.
